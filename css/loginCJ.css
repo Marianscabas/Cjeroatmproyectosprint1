@@ -1,0 +1,56 @@
+* {
+    margin: 30px;
+    border: 30px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image:url(../img/dinero.jpg);
+}
+.contenedor {
+    margin: 10px;
+    padding: auto;
+    border-radius: 30px;
+    background-color:black;
+    display: block;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.letrascss{
+    font-family: inherit;
+   color: lightpink;
+
+
+}
+
+.estiloboton {
+
+   background-color: lightpink;
+    font-family: inherit;
+    padding: 0.6em 1.3em;
+    font-weight: 900;
+    font-size: 18px;
+    border: 3px solid beige;
+    border-radius: 0.4em;
+    box-shadow: 0.1em 0.1em;
+}
+
+
+.inputea {
+    color: lightpink;
+    border: 2px solid beige;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: lightpink;
+    max-width: 190px;
+}
+
+.letra{
+    font-weight: inherit;
+    color: beige;
+}
